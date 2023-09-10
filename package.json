@@ -1,0 +1,24 @@
+{
+  "name": "gnews-api",
+  "version": "1.0.0",
+  "description": "API for G News",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkyawankhede/GNews-API.git"
+  },
+  "author": "Ajinkya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkyawankhede/GNews-API/issues"
+  },
+  "homepage": "https://github.com/ajinkyawankhede/GNews-API#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2",
+    "node-cache": "^5.1.2"
+  }
+}
